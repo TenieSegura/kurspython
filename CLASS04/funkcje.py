@@ -8,4 +8,3 @@ lista = [1, 2, 3]
 
 result = list_number1(lista)
 print(result)
-
