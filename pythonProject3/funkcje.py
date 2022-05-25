@@ -1,4 +1,4 @@
-def list_number(l):
+def list_number1(l):
     s = 0
     for e in l:
         s += e
@@ -6,6 +6,6 @@ def list_number(l):
 
 lista = [1, 2, 3]
 
-result = list_number(lista)
+result = list_number1(lista)
 print(result)
 
